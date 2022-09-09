@@ -3,9 +3,9 @@
 
 ![](./content/archives.jpg)
 
-According to its own counts, the US government collects data from the public using almost **10,000 different kinds of forms**. Each year, according to government estimates, over **100 billion individual forms** are filled out, requiring over **10 million hours of work**. Thanks a 1980 law called the [Paperwork Reduction Act](https://en.wikipedia.org/wiki/Paperwork_Reduction_Act), each new type of form, or "Information Collection Request," must be given a unique number by the OMB (Office of Management and Budget) and [tracked centrally on a website](https://www.reginfo.gov/public/do/PRAReport?operation=11).
+The US government collects data from the public using almost **10,000 different kinds of forms**. Each year, according to government estimates, over **100 billion individual forms** are filled out, requiring over **10 million hours of work**. Thanks a 1980 law called the [Paperwork Reduction Act](https://en.wikipedia.org/wiki/Paperwork_Reduction_Act), each new type of form, or "Information Collection Request," must be given a unique number by the OMB (Office of Management and Budget) and [tracked centrally on a website](https://www.reginfo.gov/public/do/PRAReport?operation=11).
 
-This project provides a simple to use spreadsheet that provides key data on each of the ~10,000 forms and links to further information about each of them. The included parser file will show you how it's created.
+This project provides a simple to use spreadsheet that includes key data on each of the ~10,000 forms and links to further information about each of them. The included parser file will show you how it's created.
 
 
 
