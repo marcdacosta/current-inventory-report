@@ -3,7 +3,7 @@
 
 ![](./content/archives.jpg)
 
-The US government collects data from the public using almost **10,000 different kinds of forms**. Each year, according to government estimates, over **100 billion individual forms** are filled out, requiring over **10 million hours of work**. Thanks a 1980 law called the [Paperwork Reduction Act](https://en.wikipedia.org/wiki/Paperwork_Reduction_Act), each new type of form, or "Information Collection Request," must be given a unique number by the OMB (Office of Management and Budget) and [tracked centrally on a website](https://www.reginfo.gov/public/do/PRAReport?operation=11).
+The US government collects data from the public using almost **10,000 different kinds of forms**. Each year, according to government estimates, over **100 billion individual forms** are filled out, requiring over **10 million hours of work**. Thanks to a 1980 law called the [Paperwork Reduction Act](https://en.wikipedia.org/wiki/Paperwork_Reduction_Act), each new type of form, or "Information Collection Request," must be given a unique number by the OMB (Office of Management and Budget) and [tracked centrally on a website](https://www.reginfo.gov/public/do/PRAReport?operation=11).
 
 This project provides a simple to use spreadsheet that includes key data on each of the ~10,000 forms and links to further information about each of them. The included parser file will show you how it's created.
 
@@ -13,7 +13,7 @@ This project provides a simple to use spreadsheet that includes key data on each
 
 While things like personal and business income tax returns are among the most commonly completed US government forms, there is in fact a wide and dizzying universe of things that are counted and tracked. To name just a few:
 
-- [Feral Swine Survey](./content/0248 - Feral Swine Survey for Testing.pdf) (OMB: 0535-0256)
+- [Feral Swine Survey](./content/0248-FeralSwineSurveyforTesting.pdf) (OMB: 0535-0256)
 - [Application for United States Flag for Burial Purposes](./content/vba-27-2008-are.pdf) (OMB: 2900-0013)
 - [Distilled Spirits Plants Warehousing Records](./content/f511011.pdf) (OMB: 1513-0039)
 - [Department of Defense Telework Agreement](./content/110824300.pdf) (OMB: 0704-0611)
